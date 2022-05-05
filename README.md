@@ -2,3 +2,7 @@
 算法
 
 1. A sorted array supports fast search (using binary search) but slow insertion when we must retain sorted order.
+
+   True  
+   
+2. Given an unsorted singly-linked list L of n items, which one of the following statements is False. Note that a singly-linked list is a linked list in which each node contains a single pointer to the next node in sequence.
